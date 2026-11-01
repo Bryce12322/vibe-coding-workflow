@@ -1,0 +1,6 @@
+interface:
+  display_name: "Vibe Coding 工作流"
+  short_description: "通过对话收敛产品想法、设计界面、逐步实现并用真实操作验证结果"
+  default_prompt: "$vibe-coding-workflow 帮我把一个产品想法做成可用的小产品，先从最关键的问题开始。"
+policy:
+  allow_implicit_invocation: true
